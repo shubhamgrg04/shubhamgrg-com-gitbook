@@ -1,3 +1,9 @@
+---
+description: Thoughts around what consumes a developer's time and what can improve
+---
+
+# Programmer Productivity
+
 When I was in college, my professor once told me that experience is nothing but pattern matching. The value of experience comes handy when a solution to a previous problem could be used in present context, rather than spending time in the whole loop of thinking about the solution from scratch, making mistakes and then correcting them.
 
 Over the years, after working on multiple software projects, I have realized that there are some key patterns in what I consider unproductive days for a software developer and have highlighted the 5 key areas with highest ratio of productivity gains to time invested (i.e. low hanging fruits).
