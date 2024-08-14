@@ -33,6 +33,18 @@ DreamFolks Services Ltd is India's largest airport service aggregator platform f
 - 65 lounges in India (100% coverage) across Indian airports
 - Government would privatize another good 20 to 25 airports in the coming 1 or 2 years, that will significantly increase the lounge area
 
+**June 2024**
+- First quarter is generally muted for the company due to seasonality
+- 2.8% year-on-year growth to 2.7 million paxes, despite a structural shift to the spend-based program implementation by most clients
+- Investing heavily in recruiting good talent especially in enterprise offering. Targeting to contribute 15-20% in top line from this business segment
+- Added 6 new airport lounges (5 domestic, 1 international) in this quarter.
+- Experiencing strong growth in golf services
+- Focussing on increasing the revenue contribution from services other than the India lounge
+- continue to add enterprise clients to our list and offer them more and more services, thereby increasing their wallet share
+- focus will also remain on expanding our geographical footprint
+- revenue growth mostly driven by price hike
+- Adani is entering into aggregator services and lounges. The company looks at Adani as a parter as each bank won't integrate with individual lounges, hence they will need integration with Dreamfolks
+
 
 ## Business Moats
 - Technology integrations with the banks actually create a lot of moats and that helps the banks to entrust on us.
