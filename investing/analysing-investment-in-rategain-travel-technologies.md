@@ -24,6 +24,16 @@ The company provides software solutions to travel industry for predicting and ge
 - More distribution channels, more integrations, smarter pricing needs from providers
 
 
+**June 2024**
+- LTV to CAC is industry leading 15.4x
+- Revenue per employee is 1.3 crores
+- Revenue mix of revenue - DaaS (32%), Distribution (20.4%), Mar-tech (47.7%)
+- DaaS grew 18% and Mar-tech grew 33%.
+- Low churn. 91% gross revenue retention
+- PAT grew by 82% compared to same quarter last year
+- Low margin due to annual salary hikes, and transition to AWS
+- During recessions, Mar-tech side of business tends to do well because hotels are willing to spend more on platform because there rooms are not filling.
+
 ## Terms
 
 - `Rate parity` - the practice of maintaining consistent hotel rates across all distribution channels
